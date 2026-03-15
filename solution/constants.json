@@ -1,0 +1,19 @@
+{
+  "compound_offset": {
+    "SOFT": -1.0,
+    "MEDIUM": 0.0,
+    "HARD": 1.0
+  },
+  "deg_rate": {
+    "SOFT": 0.06,
+    "MEDIUM": 0.03,
+    "HARD": 0.015
+  },
+  "cliff": {
+    "SOFT": 0,
+    "MEDIUM": 1,
+    "HARD": 3
+  },
+  "temp_coeff": 0.005,
+  "temp_ref": 20.0
+}
